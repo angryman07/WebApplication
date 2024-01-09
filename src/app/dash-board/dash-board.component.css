@@ -1,0 +1,17 @@
+h1,
+p {
+  backdrop-filter: blur(55px);
+  padding: 1rem 2rem;
+  border-radius: 20px;
+  color: #fff;
+}
+
+.container {
+  backdrop-filter: blur(55px);
+  justify-content: center;
+  padding: 80px;
+}
+
+.div-img {
+  border-image: fill 0 linear-gradient(#003, #000);
+}
